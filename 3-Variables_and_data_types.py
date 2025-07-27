@@ -4,3 +4,5 @@ b = "Harry"
 print(b)
 a1 = 23
 print(a + a1)
+
+print(type(a))
