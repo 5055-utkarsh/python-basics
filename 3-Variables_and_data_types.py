@@ -6,3 +6,4 @@ a1 = 23
 print(a + a1)
 
 print(type(a))
+print(id(a))
